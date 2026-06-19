@@ -1,0 +1,1 @@
+make simple_select_one_onecol_txn() more helpful by naming the table of the select - as all other query wrapper functions already did.
